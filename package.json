@@ -34,5 +34,8 @@
     "yarn.lock": [
       "git rm --cached"
     ]
+  },
+  "dependencies": {
+    "webpack-visualizer-plugin": "^0.1.11"
   }
 }
