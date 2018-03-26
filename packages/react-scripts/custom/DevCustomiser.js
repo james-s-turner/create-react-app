@@ -20,6 +20,7 @@ function addSASSLoader(config) {
       includePaths: [
         paths.appNodeModules,
         path.resolve(paths.appNodeModules, 'bootstrap-sass/assets/stylesheets'),
+        path.resolve(paths.appSrc, 'theme/day'),
       ],
     },
   };
