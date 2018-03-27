@@ -2,7 +2,7 @@
   "name": "@esparter/react-scripts-custom",
   "version": "0.1.0",
   "description": "Customized version of create react app scripts that add SASS and a few other things.",
-  "repository": "facebookincubator/create-react-app",
+  "repository": "james-s-turner/create-react-app",
   "license": "MIT",
   "engines": {
     "node": ">=6"
