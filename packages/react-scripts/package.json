@@ -1,14 +1,14 @@
 {
-  "name": "react-scripts",
-  "version": "1.1.1",
-  "description": "Configuration and scripts for Create React App.",
+  "name": "@esparter/react-scripts-custom",
+  "version": "0.1.0",
+  "description": "Customized version of create react app scripts that add SASS and a few other things.",
   "repository": "facebookincubator/create-react-app",
   "license": "MIT",
   "engines": {
     "node": ">=6"
   },
   "bugs": {
-    "url": "https://github.com/facebookincubator/create-react-app/issues"
+    "url": "https://github.com/james-s-turner/create-react-app/issues"
   },
   "files": [
     "bin",
