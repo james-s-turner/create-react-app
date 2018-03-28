@@ -1,6 +1,6 @@
 {
   "name": "@jamest-esparter/react-scripts-custom",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Customized version of create react app scripts that add SASS and a few other things.",
   "repository": "james-s-turner/create-react-app",
   "license": "MIT",
@@ -15,7 +15,8 @@
     "config",
     "scripts",
     "template",
-    "utils"
+    "utils",
+    "custom"
   ],
   "bin": {
     "react-scripts": "./bin/react-scripts.js"
